@@ -10,8 +10,7 @@ export default function Bottom() {
     flex justify-around items-center py-2 md:hidden z-50"
     >
       <BottomItem address="/" icon={FiHome} />
-      <BottomItem address="/pages/table" icon={FiTable} />
-      <BottomItem address="/pages/jadwal-piket" icon={FiUsers} />
+      <BottomItem address="/anggota" icon={FiUsers} />
     </nav>
   );
 }

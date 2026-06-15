@@ -14,7 +14,7 @@ function Side() {
             Dashboard
           </AsideList>
 
-          <AsideList address="/jadwal-piket" icon={FiUsers}>
+          <AsideList address="/anggota" icon={FiUsers}>
             Jadwal Piket
           </AsideList>
         </nav>
