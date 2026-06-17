@@ -5,7 +5,6 @@ import { createClient } from "@/utils/supabase/client";
 
 const supabase = createClient();
 
-
 function Form() {
   return (
     <div>
