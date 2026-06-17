@@ -15,7 +15,7 @@ function Side() {
           </AsideList>
 
           <AsideList address="/anggota" icon={FiUsers}>
-            Jadwal Piket
+            Anggota Pengurus
           </AsideList>
         </nav>
       </div>
